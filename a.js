@@ -7,6 +7,8 @@ window.onload = function(){
     document.body.onclick = function(){
 
         alert(0);
-    }
+
+        alert('your sister');
+    };
 
 }
