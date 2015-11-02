@@ -4,4 +4,9 @@ window.onload = function(){
     document.write('branch2 update');
     document.write('last update master');
 
+    document.body.onclick = function(){
+
+        alert(0);
+    }
+
 }
