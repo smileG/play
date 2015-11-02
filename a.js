@@ -5,5 +5,7 @@ window.onload = function(){
     document.body.onclick = function(){
 
         alert(0);
+
+        this.style.background='red';
     }
 }
