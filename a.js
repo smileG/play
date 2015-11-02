@@ -1,4 +1,5 @@
 window.onload = function(){
 
-	document.write('hello js');
+	document.write('hello js,branch');
+
 }
